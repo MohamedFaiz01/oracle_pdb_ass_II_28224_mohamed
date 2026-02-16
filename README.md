@@ -9,7 +9,7 @@ Course: INSY 8311 – Database Development with PL/SQL
 
 ## Overview
 
-This assignment focuses on practical implementation of Oracle Multitenant Architecture using Oracle Database 19c. The tasks involved creating and managing Pluggable Databases (PDBs), creating users inside a PDB, deleting a temporary PDB, and verifying the configuration using Oracle Enterprise Manager (OEM).
+This assignment focuses on practical implementation of Oracle Multitenant Architecture using Oracle Database 21c. The tasks involved creating and managing Pluggable Databases (PDBs), creating users inside a PDB, deleting a temporary PDB, and verifying the configuration using Oracle Enterprise Manager (OEM).
 
 
 ## Task 1 – Creation of Main Pluggable Database
