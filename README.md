@@ -47,7 +47,7 @@ The OEM dashboard confirmed that the Oracle environment was functioning correctl
 
 ## Challenges Faced
 
-During the configuration of Oracle Enterprise Manager, a port conflict error was encountered. The issue was resolved by resetting and reconfiguring the HTTPS port using the DBMS_XDB_CONFIG package. After restarting the database, OEM became accessible successfully.
+During this assignment, I faced several challenges including PL/SQL syntax errors, incorrect data type usage, and missing keywords. I also encountered issues while creating the pluggable database such as wrong file path configuration, insufficient privileges (not connecting as SYSDBA), and service name mismatches in SQL Developer. Additionally, listener registration errors prevented successful connection to the PDB. These problems were resolved by carefully reviewing commands, correcting paths, using proper privileges, and verifying the correct service name.
 
 
 
